@@ -1,1 +1,4 @@
 # DeviceCameraMonitorSample
+
+macOSでiPhoneの画面をリアルタイムに取得するサンプル実装。
+QuickTime Playerで「新規ムービー収録」からiPhoneを選択した場合に出る表示を自作プログラムで実現するための参考に。
